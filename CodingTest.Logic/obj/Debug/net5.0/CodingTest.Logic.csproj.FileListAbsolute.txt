@@ -1,0 +1,12 @@
+C:\source code\CodingTest.API\CodingTest.Logic\bin\Debug\net5.0\CodingTest.Logic.deps.json
+C:\source code\CodingTest.API\CodingTest.Logic\bin\Debug\net5.0\CodingTest.Logic.dll
+C:\source code\CodingTest.API\CodingTest.Logic\bin\Debug\net5.0\ref\CodingTest.Logic.dll
+C:\source code\CodingTest.API\CodingTest.Logic\bin\Debug\net5.0\CodingTest.Logic.pdb
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.csprojAssemblyReference.cache
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.AssemblyInfoInputs.cache
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.AssemblyInfo.cs
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.csproj.CoreCompileInputs.cache
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.dll
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\ref\CodingTest.Logic.dll
+C:\source code\CodingTest.API\CodingTest.Logic\obj\Debug\net5.0\CodingTest.Logic.pdb
